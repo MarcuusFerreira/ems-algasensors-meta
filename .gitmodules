@@ -1,0 +1,9 @@
+[submodule "microservices/temperatude-monitoring"]
+	path = microservices/temperatude-monitoring
+	url = https://github.com/MarcuusFerreira/ems-algasensors-temperature-monitoring.git
+[submodule "microservices/temperature-processing"]
+	path = microservices/temperature-processing
+	url = https://github.com/MarcuusFerreira/ems-algasensors-temperature-processing.git
+[submodule "microservices/device-management"]
+	path = microservices/device-management
+	url = https://github.com/MarcuusFerreira/ems-algasensors-device-management.git
